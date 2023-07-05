@@ -1,0 +1,42 @@
+body{
+    /*background-image: url('./images/image1.jpg');
+    background-size: 1000px 700px;*/
+    background-image: linear-gradient(to right , rgb(85, 78, 184),rgb(205, 74, 116));
+}
+.cal
+{
+    background-image: linear-gradient(to right,rgb(205, 74, 116), rgb(85, 78, 184));
+      position: absolute;
+      top:20%;
+      left:40%;
+      width: 300px;
+      height: 500px;
+      border-radius: 10px;
+      border: 3px solid black;
+      box-shadow: -5px -5px;
+}
+table{
+    margin:auto;
+}
+.box
+{
+    padding-top: 100px;
+}
+button{
+    font-size: 23px;
+    width: 60px;
+    height: 70px;
+    border-radius: 18px;
+    border: 2px solid black;
+}
+.element1
+{
+    width: 90%;
+    height:15%;
+    position: absolute;
+    top: 10px;
+    left: 4%;
+    border-radius: 4px;
+    border: 2px solid black;
+    font-size: 30px;
+}
